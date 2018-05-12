@@ -1,0 +1,36 @@
+_repo: The-Works-of-William-Hogarth--In-a-Series-of-EngravingsWith-Descriptions-and-a-Comment-on-The__22500
+_version: 0.1.0
+contributor:
+  artist:
+    agent_name: Hogarth, William
+    birthdate: 1697
+    deathdate: 1764
+    gutenberg_agent_id: '36364'
+    url: http://www.gutenberg.org/2009/agents/36364
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trusler, John
+    birthdate: 1735
+    deathdate: 1820
+    gutenberg_agent_id: '25361'
+    url: http://www.gutenberg.org/2009/agents/25361
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2007-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Hogarth, William, 1697-1764'
+title: 'The Works of William Hogarth: In a Series of Engravings
+
+  With Descriptions, and a Comment on Their Moral Tendency'
+url: http://www.gutenberg.org/ebooks/22500
