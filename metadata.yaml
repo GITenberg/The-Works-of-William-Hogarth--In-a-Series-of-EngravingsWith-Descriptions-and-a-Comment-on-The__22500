@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '25361'
     url: http://www.gutenberg.org/2009/agents/25361
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22500#The-Works-of-William-Hogarth--In-a-Series-of-EngravingsWith-Descriptions-and-a-Comment-on-The_
 gutenberg_bookshelf: Art
 gutenberg_issued: '2007-09-04'
 gutenberg_type: Text
